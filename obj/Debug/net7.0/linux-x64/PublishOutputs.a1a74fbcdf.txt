@@ -1,0 +1,2 @@
+C:\Users\ReducedCrowed138\Desktop\VS CODE\Coding Tutorials\bin\Debug\net7.0\linux-x64\publish\Coding Tutorials.pdb
+C:\Users\ReducedCrowed138\Desktop\VS CODE\Coding Tutorials\bin\Debug\net7.0\linux-x64\publish\Coding Tutorials
