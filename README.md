@@ -8,5 +8,8 @@ The program only works on windows... I think, again I don't know.
 
 Also feel free to tell me how I am an idiot and fix my stupidity so I can learn from it
 
+P.S 
+I'm gonna say that this project is complete! yay! of course it has some bugs and things that I would like to do but can't, I will come back to this later in life when i'm more experienced but for now it's time to move on. 
+
 Thanks internet!
 Reduced138
